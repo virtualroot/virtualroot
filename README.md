@@ -1,5 +1,3 @@
-> :pager:
-
 <pre>
 <samp><span class="prompt">virtualroot@github:~$</span> <kbd>cat README.md</kbd>
 • <a href="https://virtualroot.io">virtualroot.io</a>
