@@ -34,9 +34,7 @@ We make machines understand language so that humans can achieve more.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 {{ range (datasource "jobs").position }}
-{{- if strings.Contains "Engineer" .name }}
-• <a href="https://deepset.jobs.personio.de/job/{{ .id}}?language=en&display=en">{{ .name | strings.TrimSpace }}</a>
-{{- else if strings.Contains "Advocate" .name }}
+{{- if or (strings.Contains "Engineer" .name) (strings.Contains "Advocate" .name) }}
 • <a href="https://deepset.jobs.personio.de/job/{{ .id}}?language=en&display=en">{{ .name | strings.TrimSpace }}</a>
 {{- end }}
 {{- end }}
