@@ -19,7 +19,7 @@ We make machines understand language so that humans can achieve more.
                            ╎   │                           │               ╎
                            ╎   │                           │               ╎
 ┌─────────────────┐  at    ╎ ┌────────────────┐   OSS    ┌───────────────┐ ╎
-│ DevOps Engineer │ ────▶ ╎ │    <a href="https://www.deepset.ai/">deepset</a>     │ ───────▶ │   <a href="https://haystack.deepset.ai/">Haystack</a>    │ ╎
+│ DevOps Engineer │ ────▶ ╎ │    <a href="https://www.deepset.ai/">deepset</a>     │ ──────▶ │   <a href="https://haystack.deepset.ai/">Haystack</a>    │ ╎
 └─────────────────┘        ╎ └────────────────┘          └───────────────┘ ╎
                            ╎   │                           │               ╎
                            ╎   │                           │               ╎
