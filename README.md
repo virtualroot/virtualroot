@@ -34,4 +34,7 @@ We make machines understand language so that humans can achieve more.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
+• <a href="https://deepset.jobs.personio.de/job/1887315?language=en&display=en">Developer Advocate</a>
+• <a href="https://deepset.jobs.personio.de/job/1722426?language=en&display=en">Sales Engineer</a>
+
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
