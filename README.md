@@ -34,5 +34,6 @@ We make machines understand language so that humans can achieve more.
 • <a href="https://deepset.jobs.personio.de/job/2000035?language=en&display=en">Resident Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/1925163?language=en&display=en">Senior Backend Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/1992373?language=en&display=en">Senior DevOps Engineer</a>
+• <a href="https://deepset.jobs.personio.de/job/1925142?language=en&display=en">Senior Frontend Engineer</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
