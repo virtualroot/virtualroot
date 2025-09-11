@@ -33,7 +33,6 @@ We make machines understand language so that humans can achieve more.
 • <a href="https://deepset.jobs.personio.de/job/2310481?language=en&display=en">Customer Reliability Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2239275?language=en&display=en">Developer Advocate</a>
 • <a href="https://deepset.jobs.personio.de/job/2000035?language=en&display=en">Resident Engineer</a>
-• <a href="https://deepset.jobs.personio.de/job/2309073?language=en&display=en">Senior DevOps Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2312514?language=en&display=en">Senior Product Engineer (Backend)</a>
 • <a href="https://deepset.jobs.personio.de/job/2330283?language=en&display=en">Senior Product Engineer (Full-stack)</a>
 
