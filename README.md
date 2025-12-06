@@ -30,7 +30,7 @@ We make machines understand language so that humans can achieve more.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
-• <a href="https://deepset.jobs.personio.de/job/2239275?language=en&display=en">Developer Advocate</a>
+• <a href="https://deepset.jobs.personio.de/job/2448710?language=en&display=en">Forward Deployed Software Engineer (Full-stack)</a>
 • <a href="https://deepset.jobs.personio.de/job/2310481?language=en&display=en">Forward Deployed Software Engineer (SRE)</a>
 • <a href="https://deepset.jobs.personio.de/job/2000035?language=en&display=en">Resident Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2398579?language=en&display=en">Senior Product Engineer (Frontend)</a>
