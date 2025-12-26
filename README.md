@@ -3,7 +3,7 @@
 <a href="https://virtualroot.dev">virtualroot</a>
 <a href="https://linkedin.com/in/virtualroot">resume</a>
 
-<samp><span class="prompt">virtualroot@deepset:~$</span> <kbd>id -Gn</kbd>
+<span class="prompt">virtualroot@deepset:~$</span> <kbd>id -Gn</kbd>
 alpine debian gentoo openbsd golang kubernetes coffee mechanicalkeyboard leagueoflegends sociotechnical-systems
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset whoami</kbd>
