@@ -6,7 +6,7 @@
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>id -Gn</kbd>
 alpine debian gentoo openbsd golang kubernetes coffee mechanicalkeyboard leagueoflegends sociotechnical-systems
 
-<span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset whoami</kbd>
+<span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset</kbd>
 
 We make machines understand language so that humans can achieve more.
 
