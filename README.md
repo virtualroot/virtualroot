@@ -40,7 +40,6 @@ We make machines understand language so that humans can achieve more.
 • <a href="https://deepset.jobs.personio.de/job/2448710?language=en&display=en">Forward Deployed Full-Stack Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2310481?language=en&display=en">Forward Deployed Software Engineer (SRE)</a>
 • <a href="https://deepset.jobs.personio.de/job/2456927?language=en&display=en">Open Source Community Engineer</a>
-• <a href="https://deepset.jobs.personio.de/job/2000035?language=en&display=en">Resident Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2470558?language=en&display=en">Value Engineer - DACH</a>
 • <a href="https://deepset.jobs.personio.de/job/2470541?language=en&display=en">Value Engineer - UK</a>
 
