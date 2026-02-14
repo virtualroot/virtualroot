@@ -6,34 +6,37 @@
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>id -Gn</kbd>
 alpine debian gentoo openbsd golang kubernetes coffee mechanicalkeyboard leagueoflegends sociotechnical-systems
 
-<span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset</kbd>
+<span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset --help</kbd>
 
-We make machines understand language so that humans can achieve more.
+deepset — We make machines understand language so that humans can achieve more.
 
-                           ┌−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−┐
-                           ╎                    deepset                    ╎
-                           ╎                                               ╎
-                           ╎ ┌────────────────┐          ┌───────────┐     ╎
-                           ╎ │ <a href="https://www.deepset.ai/deepset-studio">deepset Studio</a> │          │ <a href="https://haystack.deepset.ai/community">Community</a> │     ╎
-                           ╎ └────────────────┘          └───────────┘     ╎
-                           ╎   ▲                           ▲               ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-┌─────────────────┐  at    ╎ ┌────────────────┐   OSS    ┌───────────────┐ ╎
-│ DevOps Engineer │ ────▶ ╎ │    <a href="https://www.deepset.ai/">deepset</a>     │ ──────▶ │   <a href="https://haystack.deepset.ai/">Haystack</a>    │ ╎
-└─────────────────┘        ╎ └────────────────┘          └───────────────┘ ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-                           ╎   │                           │               ╎
-                           ╎   ▼                           ▼               ╎
-                           ╎ ┌────────────────┐          ┌───────────────┐ ╎
-                           ╎ │ <a href="https://www.deepset.ai/deepset-cloud-product">deepset Cloud</a>  │          │ <a href="https://docs.haystack.deepset.ai/docs/intro">Documentation</a> │ ╎
-                           ╎ └────────────────┘          └───────────────┘ ╎
-                           ╎                                               ╎
-                           └−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−−┘
+USAGE:
+    deepset [SUBCOMMAND] [OPTIONS]
+
+DESCRIPTION:
+    deepset's mission is to make custom AI accessible to every organization,
+    empowering businesses to solve critical challenges with secure, scalable,
+    and innovative solutions.
+
+SUBCOMMANDS:
+    <a href="https://haystack.deepset.ai/">haystack</a>
+        Description:
+            The flagship open-source Python framework for AI orchestration
+            and building custom LLM applications. It lets developers assemble
+            modular pipelines for tasks such as QA, semantic search, RAG,
+            summarization, text generation, document processing, agents, etc.
+
+    <a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">enterprise</a>
+        Description:
+            Enterprise platform extending Haystack with managed tooling 
+            and infrastructure. Provides collaboration, workflow 
+            management, evaluation, monitoring, governance, templates 
+            and deployment workflows to accelerate enterprise AI.
+
+        Options may include:
+            --<a href="https://www.deepset.ai/haystack-enterprise-platform-trial/">trial</a>          Start an enterprise platform trial.
+            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">cloud</a>          Manage deployment targets (cloud/VPC/on-prem).
+            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">selfHosted</a>     Enable monitoring and metrics for active services.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
