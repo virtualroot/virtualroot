@@ -35,8 +35,8 @@ SUBCOMMANDS:
 
         Options may include:
             --<a href="https://www.deepset.ai/haystack-enterprise-platform-trial/">trial</a>          Start an enterprise platform trial.
-            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">cloud</a>          Managed deployment in the cloud.
-            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">selfHosted</a>     Self-hosted deployment with Airgap support.
+            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">cloud</a>          Manage deployment targets (cloud/VPC/on-prem).
+            --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">selfHosted</a>     Enable monitoring and metrics for active services.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
