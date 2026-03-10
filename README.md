@@ -44,5 +44,6 @@ SUBCOMMANDS:
 • <a href="https://deepset.jobs.personio.de/job/2310481?language=en&display=en">Forward Deployed Engineer (Infrastructure)</a>
 • <a href="https://deepset.jobs.personio.de/job/2470541?language=en&display=en">Sales Engineer - Enterprise</a>
 • <a href="https://deepset.jobs.personio.de/job/2470558?language=en&display=en">Sales Engineer - Public Sector</a>
+• <a href="https://deepset.jobs.personio.de/job/2558059?language=en&display=en">Senior Solution Engineer</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
