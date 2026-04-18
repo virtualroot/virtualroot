@@ -43,5 +43,6 @@ SUBCOMMANDS:
 • <a href="https://deepset.jobs.personio.de/job/2470541?language=en&display=en">Sales Engineer - Enterprise</a>
 • <a href="https://deepset.jobs.personio.de/job/2470558?language=en&display=en">Sales Engineer - Public Sector</a>
 • <a href="https://deepset.jobs.personio.de/job/2558059?language=en&display=en">Senior Solution Engineer</a>
+• <a href="https://deepset.jobs.personio.de/job/2605392?language=en&display=en">Site Reliability Engineer</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
