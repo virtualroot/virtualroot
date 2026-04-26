@@ -40,7 +40,6 @@ SUBCOMMANDS:
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
-• <a href="https://deepset.jobs.personio.de/job/2558059?language=en&display=en">Senior Solution Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2605392?language=en&display=en">Site Reliability Engineer</a>
 • <a href="https://deepset.jobs.personio.de/job/2470541?language=en&display=en">Value Engineer - Enterprise</a>
 • <a href="https://deepset.jobs.personio.de/job/2470558?language=en&display=en">Value Engineer - Public Sector</a>
