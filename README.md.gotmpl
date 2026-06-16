@@ -39,9 +39,9 @@ SUBCOMMANDS:
             --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">selfHosted</a>     Self-hosted deployment with Airgap support.
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
-{{ range (datasource "jobs").position }}
-{{- if or (strings.Contains "Engineer" .name) (strings.Contains "Advocate" .name) }}
-• <a href="https://deepset.jobs.personio.de/job/{{ .id}}?language=en&display=en">{{ .name | strings.TrimSpace }}</a>
+{{ range (datasource "jobs").jobs }}
+{{- if or (strings.Contains "Engineer" .title) (strings.Contains "Advocate" .title) }}
+• <a href="{{ .jobUrl }}?utm_source=rEgDLw5B8Q">{{ .title | strings.TrimSpace }}</a>
 {{- end }}
 {{- end }}
 

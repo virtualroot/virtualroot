@@ -19,8 +19,7 @@ jobs:
 
       - name: Run gomplate and sync README.md
         run: |
-          curl -L "https://deepset.jobs.personio.de/xml?language=en" > jobs.xml
-          yq .workzag-jobs -p=xml -o=json jobs.xml > jobs.json
+          curl -fSL "https://api.ashbyhq.com/posting-api/job-board/deepsetai" > jobs.json
           gomplate -f README.md.gotmpl -o README.md
           if [[ $(git status --porcelain --untracked-files=no) ]]; then
             git config user.name "$GITHUB_ACTOR"
