@@ -40,7 +40,7 @@ SUBCOMMANDS:
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
-• <a href="https://jobs.ashbyhq.com/deepsetai/64ae158e-76ed-43b9-8f19-d709bd2231ee?utm_source=rEgDLw5B8Q">Value Engineer</a>
 • <a href="https://jobs.ashbyhq.com/deepsetai/5001913f-8bd8-474c-93fa-c4a17a16bebc?utm_source=rEgDLw5B8Q">Site Reliability Engineer</a>
+• <a href="https://jobs.ashbyhq.com/deepsetai/64ae158e-76ed-43b9-8f19-d709bd2231ee?utm_source=rEgDLw5B8Q">Value Engineer</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
