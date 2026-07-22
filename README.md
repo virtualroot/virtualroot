@@ -42,5 +42,6 @@ SUBCOMMANDS:
 
 • <a href="https://jobs.ashbyhq.com/deepsetai/64ae158e-76ed-43b9-8f19-d709bd2231ee?utm_source=rEgDLw5B8Q">Value Engineer</a>
 • <a href="https://jobs.ashbyhq.com/deepsetai/5001913f-8bd8-474c-93fa-c4a17a16bebc?utm_source=rEgDLw5B8Q">Site Reliability Engineer</a>
+• <a href="https://jobs.ashbyhq.com/deepsetai/259a197f-0fb1-4ac2-bb6c-764a0484c508?utm_source=rEgDLw5B8Q">Product Engineering Tech Lead</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
