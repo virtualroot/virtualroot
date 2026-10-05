@@ -26,7 +26,7 @@ SUBCOMMANDS:
             modular pipelines for tasks such as QA, semantic search, RAG,
             summarization, text generation, document processing, agents, etc.
 
-    <a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">enterprise</a>
+    <a href="https://www.deepset.ai/haystack-platform">enterprise</a>
         Description:
             Enterprise platform extending Haystack with managed tooling 
             and infrastructure. Provides collaboration, workflow 
@@ -34,7 +34,7 @@ SUBCOMMANDS:
             and deployment workflows to accelerate enterprise AI.
 
         Options may include:
-            --<a href="https://www.deepset.ai/haystack-enterprise-platform-trial/">trial</a>          Start an enterprise platform trial.
+            --<a href="https://www.deepset.ai/haystack-enterprise-platform-trial">trial</a>          Start an enterprise platform trial.
             --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">cloud</a>          Managed deployment in the cloud.
             --<a href="https://www.deepset.ai/products-and-services/haystack-enterprise-platform/">selfHosted</a>     Self-hosted deployment with Airgap support.
 
