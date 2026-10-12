@@ -40,6 +40,5 @@ SUBCOMMANDS:
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
-• <a href="https://jobs.ashbyhq.com/deepsetai/259a197f-0fb1-4ac2-bb6c-764a0484c508?utm_source=rEgDLw5B8Q">Product Engineering Tech Lead</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
