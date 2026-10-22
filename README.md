@@ -40,5 +40,6 @@ SUBCOMMANDS:
 
 <span class="prompt">virtualroot@deepset:~$</span> <kbd>deepset jobs</kbd>
 
+• <a href="https://jobs.ashbyhq.com/deepsetai/0f272bd8-6d4a-4986-ae00-8f78ac34a9ff?utm_source=rEgDLw5B8Q">Forward Deployed Engineering Manager</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
