@@ -42,6 +42,5 @@ SUBCOMMANDS:
 
 • <a href="https://jobs.ashbyhq.com/deepsetai/0f272bd8-6d4a-4986-ae00-8f78ac34a9ff?utm_source=rEgDLw5B8Q">Forward Deployed Engineering Manager</a>
 • <a href="https://jobs.ashbyhq.com/deepsetai/a5627218-2fd4-4dab-8ee7-63f232a2ca9f?utm_source=rEgDLw5B8Q">Forward Deployed Engineer (German speaking)</a>
-• <a href="https://jobs.ashbyhq.com/deepsetai/0b4ad7b5-81b0-4731-8912-2af24876b407?utm_source=rEgDLw5B8Q">Product Engineer</a>
 
 <span class="prompt">virtualroot@deepset:~$</span> <span class="cursor">█</span></samp></pre>
